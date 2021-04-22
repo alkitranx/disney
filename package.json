@@ -1,0 +1,21 @@
+{
+  "name": "proyectdisney",
+  "version": "1.0.0",
+  "description": "prueba en base a api disney",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon run index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "disney"
+  },
+  "author": "Hender",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.6.2"
+  }
+}
